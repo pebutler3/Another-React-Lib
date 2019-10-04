@@ -5,6 +5,7 @@ import Button from "./Button/Button";
 import Header from "./Header/Header";
 import Form from "./Form/Form";
 import Avatar from "./Avatar/Avatar";
+import Card from "./Card/Card";
 import Collapse from "./Collapse/Collapse";
 import SocialIcon from "./SocialIcon/SocialIcon";
 import Profile from "./Profile/Profile";
@@ -43,6 +44,7 @@ export {
   Switch,
   TwitterShare,
   StickyButton,
+  Card,
   Collapse,
   Avatar,
   SocialIcon,
